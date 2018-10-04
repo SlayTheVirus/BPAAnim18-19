@@ -8,4 +8,4 @@ Alex Frantom, Brian McGregor & Dwayne Cole
 Blender (https://www.blender.org/)
 
 #Todo
-*See [ToDo.md](https://github.com/SlayTheVirus/BPAAnim/blob/master/ToDo.md)
+See [ToDo.md](https://github.com/SlayTheVirus/BPAAnim/blob/master/ToDo.md)
