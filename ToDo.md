@@ -4,4 +4,5 @@
 + ~~Add hills and mountains to terrain~~
 + ~~Rig the snowboard to the snowboarder~~
 + ~~Add snowboarder to main.blend~~
-+ Create basic animation of snowboarder moving down the course
++ ~~Create basic animation of snowboarder moving down the course~~
++ Add audience
