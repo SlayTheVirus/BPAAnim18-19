@@ -2,7 +2,7 @@
 Animation Project for BPA 2018
 
 # Project Contributors
-Alex Frantom, Brian McGregor & Dwayne Cole
+Alex Frantom, Brian McGregor, Dwayne Cole & Raul Villa
 
 # Software
 Blender (https://www.blender.org/)
